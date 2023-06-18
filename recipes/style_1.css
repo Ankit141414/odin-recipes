@@ -1,6 +1,7 @@
 body{
     font-family: 'Courier New', Courier, monospace;
 }
+/*css for momo */
 .heading{
     font-size: 32px;
     color: brown;
@@ -23,7 +24,7 @@ body{
 .pragraph{
     color: darkblue;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 26px;
+    font-size: 29px;
 }
 
 ul li,
@@ -36,7 +37,7 @@ a{
     text-align: center;
     font-size: 24px;
 }
-
+ /*css for pizza */
 .heading_for_pizza{
     font-size: 32px;
     font-family: Arial, Helvetica, sans-serif;
@@ -67,4 +68,33 @@ a{
  
 .list_2 li{
     font-size: 22px;
+}
+
+/*css for burger*/ 
+
+.heading_for_burger{
+    font-size: 32px;
+    color: #C27E79;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading_for_burger.dos {
+    background-color: rgba(245, 245, 220, 1);
+    text-align: center;
+}
+
+.parrafo,
+.dos-parrafo{
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.suchi li{
+    font-size: 22px;
+
+}
+
+.suchi_2 li{
+    font-size:22px;
 }
