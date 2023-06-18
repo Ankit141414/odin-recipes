@@ -36,3 +36,35 @@ a{
     text-align: center;
     font-size: 24px;
 }
+
+.heading_for_pizza{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    color: rgba(34, 34, 89, 0.555);
+
+}
+
+.heading_for_pizza.dosro{
+    background-color: rgba(144, 238, 144, 0.797);
+    text-align: center;
+}
+
+
+#anuched,
+.dosro-anuched,
+.tesro-anuched{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 29px;
+    
+}
+
+.list li 
+{
+    font-size: 22px;
+    text-align: left;
+}
+ 
+.list_2 li{
+    font-size: 22px;
+}
