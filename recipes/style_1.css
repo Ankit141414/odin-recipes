@@ -1,35 +1,69 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;    
 }
 /*css for momo */
+img{
+    width: 850px;
+    height: 700px;
+    padding-right: 30px;
+    display: inline-block;
+}
+
 .heading{
-    font-size: 32px;
+    font-size: 43px;
     color: brown;
     text-decoration: underline;
     font-family: Arial, Helvetica, sans-serif;
     
- }
-
- img{
-    width: 800px;
-    height: 500px;
- }
-
-
-.heading.second{
     
+    
+    
+
+}
+.heading.second{  
     background-color: rgba(0, 128, 0, 0.319);
+    text-align: center;
+    
+    
+    margin-left: 850px;
+    margin-top: -550px;
+    margin-bottom:400px;
+    padding: 40px;
 } 
 
 .pragraph{
     color: darkblue;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 29px;
+    font-size: 40px;
+    text-align: right;
+}
+.pragraph.ank{
+margin-top:-350px;
+margin-bottom: 150px;
+padding: 30px;
+}
+.pragraph.second{
+width: 900px;
+margin-left: 1200px;
+margin-top: -130px;
+margin-bottom: 200px;
+padding: 20px;
+
+}
+.heading.third,
+.heading.fourth{
+    text-align: center;
 }
 
-ul li,
-ol li{
-    font-size: 22px;
+
+
+.suchi_1,
+.suchi_2{
+    margin-left: 700px;
+    width: 800px;
+    font-size: 30px;
+    padding: 25px;
+    
 }
 
 a{
@@ -37,43 +71,114 @@ a{
     text-align: center;
     font-size: 24px;
 }
+.abhi{
+      margin-left: 900px;
+      margin-top: 20px;
+      padding: 20px;
+}
+.heading.first{
+    text-align: right;
+    margin-top: -730px;
+    margin-bottom: 600px;
+    padding: 20px;
+    
+
+}
+
  /*css for pizza */
-.heading_for_pizza{
-    font-size: 32px;
+ .heading_for_pizza{
+    font-size: 42px;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline;
     color: rgba(34, 34, 89, 0.555);
 
 }
 
+.heading_for_pizza.pahilo{
+    text-align: right;
+    margin-top: -700px;
+    margin-bottom: 500px;
+    padding: 30px;
+
+}
+
+.tasbir{
+    
+    margin-top: -40px;
+    margin-left: -8px;
+
+
+}
+
 .heading_for_pizza.dosro{
     background-color: rgba(144, 238, 144, 0.797);
-    text-align: center;
+    text-align: right;
+    margin-left: 800px;   
+    margin-top: -470px;
+    padding: 35px;
+    margin-bottom: 500px;
+
 }
 
 
-#anuched,
-.dosro-anuched,
-.tesro-anuched{
+#anuched
+{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 29px;
+    font-size: 35px;
+    text-align: right;
+    margin-left: 850px;    
+    margin-top: -450px;
+    margin-bottom: 500px;
+}
+
+.dosro-anuched{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: right;
+    margin-left: 850px;
+    margin-bottom: 500px;
+    margin-top: -450px;
     
 }
 
-.list li 
-{
-    font-size: 22px;
-    text-align: left;
+.heading_for_pizza.tesro{
+    text-align: center;
+    margin-top: -300px;
 }
  
-.list_2 li{
-    font-size: 22px;
+.nepal,
+.bharat{
+    margin-left: 700px;
+    width: 800px;
+    font-size: 30px;
+    padding: 25px;   
+
+}
+
+
+.heading_for_pizza.chautho{
+    text-align: center;
+    margin-top: 50px;
+}
+ 
+ 
+
+.tesro-anuched{
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+}
+
+.mum{
+    margin-left: 900px;
+    margin-top: 20px;
+    padding: 20px;
 }
 
 /*css for burger*/ 
 
 .heading_for_burger{
-    font-size: 32px;
+    font-size: 45px;
     color: #C27E79;
     text-decoration: underline;
     font-family: Arial, Helvetica, sans-serif;
@@ -81,20 +186,58 @@ a{
 
 .heading_for_burger.dos {
     background-color: rgba(245, 245, 220, 1);
-    text-align: center;
+    text-align: right;
+    margin-left: 800px;   
+    margin-top: -470px;
+    padding: 35px;
+    margin-bottom: 500px;
 }
 
 .parrafo,
 .dos-parrafo{
     font-size: 29px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: right;
+    margin-left: 850px;    
+    margin-top: -450px;
+    margin-bottom: 500px;
 
 }
-.suchi li{
-    font-size: 22px;
-
+.dad{
+    margin-left: 900px;
+    margin-top: 20px;
+    padding: 20px;
 }
 
-.suchi_2 li{
-    font-size:22px;
+.heading_for_burger.uno{
+    text-align: right;
+    margin-top: -700px;
+    margin-bottom: 500px;
+    padding: 30px;
+}
+
+.photo{
+    margin-top: -40px;
+    margin-left: -8px;
+}
+
+.heading_for_burger.tres{
+    text-align: center;
+    margin-top: -300px;
+    font-size: 35px;
+}
+
+.radhe,
+.krishna{
+    margin-left: 700px;
+    width: 800px;
+    font-size: 27px;
+    padding: 25px;
+}
+
+.heading_for_burger.quatro{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 35px;
 }

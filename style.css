@@ -2,24 +2,53 @@
     color: rgba(255, 0, 0, 0.495);
     text-decoration: underline;
     font-size: 32px;
-
-}
-
-.link{
-    text-decoration: none;
     text-align: center;
-    color: black;
-    font-size: 22px;
-    font-weight: bold;
-    border-color: black;
-
+    
 }
+
 
 .chef{
     width: 700px;
     height: auto;
+    margin-left: -10px;
+    padding: 30px;
+    margin-left: 700px;
+
 }
 
 .second{
     font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+a{
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    
+
+}
+
+ul li{
+    list-style-type: none;
+    
+}
+
+button{
+    margin-left: 900px;
+    padding: 30px;
+}
+
+.button.one {
+    margin-bottom: 45px;;
+}
+
+.button.two
+{
+    
+    margin-bottom: 45px;
+}
+
+.button.three{
+    margin-bottom: 45px;
 }
