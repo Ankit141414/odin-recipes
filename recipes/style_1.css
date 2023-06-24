@@ -23,12 +23,13 @@ img{
 .heading.second{  
     background-color: rgba(0, 128, 0, 0.319);
     text-align: center;
+    text-align: right;
+    margin-left: 800px;   
+    margin-top: -470px;
+    padding: 35px;
+    margin-bottom: 500px;
     
     
-    margin-left: 850px;
-    margin-top: -550px;
-    margin-bottom:400px;
-    padding: 40px;
 } 
 
 .pragraph{
@@ -38,16 +39,18 @@ img{
     text-align: right;
 }
 .pragraph.ank{
-margin-top:-350px;
-margin-bottom: 150px;
-padding: 30px;
+    font-size: 35px;
+    text-align: right;
+    margin-left: 850px;    
+    margin-top: -450px;
+    margin-bottom: 500px;
 }
 .pragraph.second{
-width: 900px;
-margin-left: 1200px;
-margin-top: -130px;
-margin-bottom: 200px;
-padding: 20px;
+    font-size: 35px;
+    text-align: right;
+    margin-left: 850px;
+    margin-bottom: 500px;
+    margin-top: -450px;
 
 }
 .heading.third,
@@ -78,8 +81,8 @@ a{
 }
 .heading.first{
     text-align: right;
-    margin-top: -730px;
-    margin-bottom: 600px;
+    margin-top: -700px;
+    margin-bottom: 500px;
     padding: 20px;
     
 
